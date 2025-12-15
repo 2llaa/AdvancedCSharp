@@ -10,32 +10,34 @@ using System.Threading.Tasks;
 
 namespace day1
 {
-    public struct Employee
+    internal struct Employee
     {
-        public Employee(int id , DateOnly hireDate , decimal salary , Roles role , Gender gender )
+        internal Employee(int id ,string name, DateOnly hireDate , decimal salary , Roles role , Gender gender )
         {
             Id = id;
+            Name = name;
             HireDate = hireDate;
             Salary = salary;
             Role = role;
             Genderr = gender;
         }
-        public Employee() :this(1, new DateOnly(2025, 12, 10), 2000.0m,Roles.Developer,Gender.Female)
+        public Employee() : this(1, "2llaa", new DateOnly(2025, 12, 10), 2000.0m,Roles.Developer,Gender.Female)
         {
         }
 
-        public int Id { get; set; }
-        public DateOnly HireDate { get; set; }
+        internal int Id { get; set; }
+        internal string Name { get; set; }
+        internal DateOnly HireDate { get; set; }
         private decimal Salary { get; set; }
         private Roles Role = Roles.Developer;
-        public Gender Genderr = Gender.Female;
+        internal Gender Genderr = Gender.Female;
 
 
 
         public override string ToString()
         {
                                                                             //c is for currency
-          return $"Id={Id} , Hire Date={HireDate} , Salary={Salary.ToString("C", CultureInfo.GetCultureInfo("en-EG"))}  , Role={Role}  , Gender={Genderr} ";
+          return $"Id={Id} , Name={Name} Hire Date={HireDate} , Salary={Salary.ToString("C", CultureInfo.GetCultureInfo("en-EG"))}  , Role={Role}  , Gender={Genderr} ";
         }
          
         

@@ -16,9 +16,9 @@ namespace day1
 
             Employee[] employees =
             [
-                new Employee(2,new DateOnly(2024,5,11),3000.0m,Roles.DBA,Gender.Male),
-                new Employee (3,new DateOnly(2025,4,12),1000.0m,Roles.guest,Gender.Male),
-                new Employee(4,new DateOnly(2023,12,6),7000.0m,Roles.SecurityOfficer,Gender.Female)
+                new Employee(2,"Ahmed",new DateOnly(2024,5,11),3000.0m,Roles.DBA,Gender.Male),
+                new Employee (3,"3bood",new DateOnly(2025,4,12),1000.0m,Roles.guest,Gender.Male),
+                new Employee(4,"2llaa",new DateOnly(2023,12,6),7000.0m,Roles.SecurityOfficer,Gender.Female)
             ];
 
             //sorted employees based on the hirring date 

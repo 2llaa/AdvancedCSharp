@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\c#\\Day7\\c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B2E03EB-B576-4954-A3E1-685BCADC8756}|day2\\day2.csproj|d:\\c#\\day7\\c#\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2E03EB-B576-4954-A3E1-685BCADC8756}|day2\\day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\genderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\genderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|d:\\c#\\day7\\c#\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ABFB5B-562E-4165-BE0E-84DF6C4CA02A}|day1\\day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +26,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenderException.cs",
-              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\GenderException.cs",
-              "RelativeDocumentMoniker": "day1\\GenderException.cs",
-              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\GenderException.cs",
-              "RelativeToolTip": "day1\\GenderException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day2\\Program.cs",
+              "RelativeDocumentMoniker": "day2\\Program.cs",
+              "ToolTip": "D:\\c#\\Day7\\c#\\day2\\Program.cs",
+              "RelativeToolTip": "day2\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T19:07:29.586Z"
+              "WhenOpened": "2025-12-15T20:22:33.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\Gender.cs",
-              "RelativeDocumentMoniker": "day1\\Gender.cs",
-              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\Gender.cs",
-              "RelativeToolTip": "day1\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmployeeSearch.cs",
+              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\EmployeeSearch.cs",
+              "RelativeDocumentMoniker": "day1\\EmployeeSearch.cs",
+              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\EmployeeSearch.cs",
+              "RelativeToolTip": "day1\\EmployeeSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:50:54.691Z"
+              "WhenOpened": "2025-12-15T20:18:53.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\Roles.cs",
-              "RelativeDocumentMoniker": "day1\\Roles.cs",
-              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\Roles.cs",
-              "RelativeToolTip": "day1\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\Program.cs",
+              "RelativeDocumentMoniker": "day1\\Program.cs",
+              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\Program.cs",
+              "RelativeToolTip": "day1\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:44:05.472Z"
+              "WhenOpened": "2025-12-15T20:17:33.899Z"
             },
             {
               "$type": "Document",
@@ -76,22 +73,9 @@
               "RelativeDocumentMoniker": "day1\\Employee.cs",
               "ToolTip": "D:\\c#\\Day7\\c#\\day1\\Employee.cs",
               "RelativeToolTip": "day1\\Employee.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:41:54.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\Day7\\c#\\day1\\Program.cs",
-              "RelativeDocumentMoniker": "day1\\Program.cs",
-              "ToolTip": "D:\\c#\\Day7\\c#\\day1\\Program.cs",
-              "RelativeToolTip": "day1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T16:39:04.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T20:15:51.273Z"
             }
           ]
         }
